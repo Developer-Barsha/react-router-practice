@@ -1,0 +1,5 @@
+.meal-details:hover{
+    background-color: slateblue;
+    transition: 0.3s;
+    transform: scale(1.1);
+}

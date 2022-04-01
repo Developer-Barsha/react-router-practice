@@ -1,0 +1,23 @@
+@media screen and (min-width:699px)  and (max-width:1000px) {
+    .home img{
+        order:1;
+    }
+    .text{
+        order:2;
+    }
+    .home{
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width:0px)  and (max-width:700px) {
+    .home img{
+        order:1;
+    }
+    .text{
+        order:2;
+    }
+    .home{
+        flex-direction: column;
+    }
+}
